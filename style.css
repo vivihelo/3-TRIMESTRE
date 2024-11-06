@@ -38,6 +38,14 @@ nav a {
     font-size: 1.2rem;
 }
 
+/* código omitido */
+
+.grafico {
+    margin-top: 3rem;
+}
+
+/* código omitido */
+
 header {
     background-color: var(--primary-color);
     text-align: center;
